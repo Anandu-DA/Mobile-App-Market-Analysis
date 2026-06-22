@@ -1,6 +1,6 @@
 # 📊 Mobile App Market Analysis: Driving Revenue via App Profiles
 
-## 🎯 Project Overview
+##   Project Overview
 In a highly competitive mobile ecosystem containing millions of applications, finding a profitable product niche is essential for maximizing visibility and ad revenue. The primary objective of this project is to perform **Exploratory Data Analysis (EDA)** on sample datasets from both the **Apple App Store** and **Google Play Store** to identify an optimal free mobile app profile.
 
 Since our revenue model relies heavily on in-app advertisements, the core analytical metric is **user engagement**. The goal is to determine what types of applications consistently attract and retain a large user base across both mobile operating systems.
